@@ -1,0 +1,121 @@
+export const Products=[
+ {
+  id:1,
+  title:'Google Pixel -Grey',
+  img:'images/image001.webp',
+  price:10,
+  company:'GOOGLE',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:2,
+  title:'Samsung s7',
+  img:'images/image002.webp',
+  price:16,
+  company:'SAMSUNG',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:3,
+  title:'HTC 10 -Grey',
+  img:'images/image003.webp',
+  price:8,
+  company:'htc',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:4,
+  title:'HTC 10 -Black',
+  img:'images/image004.webp',
+  price:18,
+  company:'htc',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:5,
+  title:'Iphone 7',
+  img:'images/image005.webp',
+  price:24,
+  company:'Apple',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:6,
+  title:'HTC-Desire 626s',
+  img:'images/image006.webp',
+  price:24,
+  company:'htc',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:7,
+  title:'Vintage Iphone',
+  img:'images/image007.jpeg',
+  price:24,
+  company:'Apple',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:8,
+  title:'Iphone 14',
+  img:'images/image008.jpeg',
+  price:24,
+  company:'Apple',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+ {
+  id:9,
+  title:'Oppo',
+  img:'images/image009.jpeg',
+  price:24,
+  company:'Apple',
+  info:
+  'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+inCart:false,
+count:0,
+total:0,
+},
+];
+export const detailProduct={
+ id:10,
+ title:'Google pixel -Black',
+  img:'images/image001.webp',
+ price:10,
+ company:'google',
+ info:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur, quibusdam explicabo ratione eum at expedita exercitationem facilis perferendis aliquid praesentium dolor asperiores earum aspernatur dicta molestias, ducimus similique quae ea. Voluptatum repudiandae vitae corporis aspernatur distinctio quia et sequi.',
+ inCart:false,
+ count:0,
+ total:0
+}
